@@ -1,8 +1,10 @@
 # Title Edit Presets
 
-A collection of custom title and character select screens for FFXIV.
+A collection of custom title and character select screens for FFXIV. Some presets may contain spoilers for story or side content.
 
 Requires the [Title Edit](https://github.com/RokasKil/TitleEdit) plugin. Title Edit is a first party plugin for Dalamud and can be installed directly from the plugin installer. For help on installing plugins, see [here](https://goatcorp.github.io/faq/dalamud_troubleshooting#q-how-do-i-installenable-plugins).
+
+A full changelog for this repo can be found [here](https://github.com/flareflareflarestar/title-edit-presets/blob/main/CHANGELOG.md).
 
 ## How to install and use presets
 
